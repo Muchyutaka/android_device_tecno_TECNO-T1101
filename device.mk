@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.mt6789
 
-
 PRODUCT_PACKAGES += \
     otapreopt_script \
     cppreopts.sh \
